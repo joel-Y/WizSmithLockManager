@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WizSmith</string>
+    
+    <!-- Navigation -->
+    <string name="nav_home">Home</string>
+    <string name="nav_locks">Locks</string>
+    <string name="nav_settings">Settings</string>
+    
+    <!-- Login -->
+    <string name="login_title">Welcome to WizSmith</string>
+    <string name="login_subtitle">Smart Lock Management</string>
+    <string name="hint_username">Username</string>
+    <string name="hint_password">Password</string>
+    <string name="btn_login">Login</string>
+    
+    <!-- Home -->
+    <string name="home_welcome">Welcome Back!</string>
+    <string name="home_my_locks">My Locks</string>
+    <string name="home_add_lock">Add Lock</string>
+    <string name="home_sync_locks">Sync Locks</string>
+    <string name="home_total_locks">Total Locks</string>
+    <string name="home_locked">Locked</string>
+    <string name="home_unlocked">Unlocked</string>
+    
+    <!-- Locks -->
+    <string name="locks_title">My Locks</string>
+    <string name="locks_empty">No locks found. Tap + to add a lock.</string>
+    <string name="lock_details">Lock Details</string>
+    <string name="lock_battery">Battery</string>
+    <string name="lock_last_update">Last Update</string>
+    <string name="lock_status">Status</string>
+    <string name="btn_unlock">Unlock</string>
+    <string name="btn_lock">Lock</string>
+    <string name="btn_refresh_battery">Refresh Battery</string>
+    
+    <!-- Scan -->
+    <string name="scan_title">Scan for Locks</string>
+    <string name="scan_subtitle">Looking for TTLock devices nearby</string>
+    <string name="scan_empty">No devices found. Make sure your lock is in pairing mode.</string>
+    <string name="btn_scan">Start Scanning</string>
+    
+    <!-- Events -->
+    <string name="events_title">Recent Events</string>
+    <string name="events_empty">No events recorded yet</string>
+    
+    <!-- Settings -->
+    <string name="settings_title">Settings</string>
+    <string name="settings_account">Account</string>
+    <string name="settings_logout">Logout</string>
+    <string name="settings_about">About</string>
+    <string name="settings_version">Version 1.0.0</string>
+    
+    <!-- Menu -->
+    <string name="menu_search">Search</string>
+    <string name="menu_delete">Delete</string>
+    <string name="menu_rename">Rename</string>
+    <string name="menu_refresh">Refresh</string>
+    
+    <!-- Dialogs -->
+    <string name="dialog_delete_title">Delete Lock</string>
+    <string name="dialog_delete_message">Are you sure you want to delete this lock?</string>
+    <string name="dialog_logout_title">Logout</string>
+    <string name="dialog_logout_message">Are you sure you want to logout?</string>
+    <string name="btn_cancel">Cancel</string>
+    <string name="btn_confirm">Confirm</string>
+    <string name="btn_delete">Delete</string>
+</resources>

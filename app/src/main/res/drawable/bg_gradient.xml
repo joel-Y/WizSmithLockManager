@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<shape xmlns:android="http://schemas.android.com/apk/res/android">
+    <gradient
+        android:angle="135"
+        android:startColor="@color/wizsmith_primary"
+        android:centerColor="@color/wizsmith_primary_dark"
+        android:endColor="@color/wizsmith_accent"
+        android:type="linear" />
+</shape>
