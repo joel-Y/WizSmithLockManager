@@ -1,0 +1,8 @@
+<resources>
+    <style name="Theme.WizSmith" parent="Theme.MaterialComponents.DayNight.NoActionBar">
+        <item name="colorPrimary">@color/wiz_blue</item>
+        <item name="colorPrimaryVariant">@color/wiz_blue_dark</item>
+        <item name="colorSecondary">@color/accent_orange</item>
+        <item name="android:statusBarColor">@color/wiz_blue_dark</item>
+    </style>
+</resources>
