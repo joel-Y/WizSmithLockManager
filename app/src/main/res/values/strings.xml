@@ -1,6 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">WizSmith Lock Manager</string>
-    <string name="username_hint">Username or email</string>
-    <string name="password_hint">Password</string>
-    <string name="login_button">Login</string>
+    <string name="login">Login</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="logout">Logout</string>
 </resources>
